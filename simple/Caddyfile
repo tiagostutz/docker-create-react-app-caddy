@@ -1,0 +1,4 @@
+localhost:80
+gzip
+log ../access.log
+root /srv
